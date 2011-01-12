@@ -8,7 +8,7 @@ With fbjs-to-jquery you can include jQuery on your page but still use Facebook J
 
 Include jQuery and fbjs-to-jquery on your page
 
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-	<script type="text/javascript" src="fb-to-query.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="fb-to-query.js"></script>
 
 Don't forget to remove these 2 lines when you paste the code back to Facebook.
