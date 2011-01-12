@@ -1,6 +1,4 @@
-if(typeof(Facebook) == "undefined"){
-	
-	document.write('<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>');
+if(typeof(Facebook) == "undefined" && typeof(jQuery) == "function"){
 	
 	var Animation = jQuery;
 	
