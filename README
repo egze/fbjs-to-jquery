@@ -1,0 +1,3 @@
+When developing Facebook apps with FBJS (http://developers.facebook.com/docs/fbjs) you always have to copy/paste all your code to Facebook to test it.
+
+With fbjs-to-jquery you can include jQuery on your page but still use Facebook JS functions, it will just be jQuery that is executing them. When you paste your code back to Facebook, everything will still work as expected.
